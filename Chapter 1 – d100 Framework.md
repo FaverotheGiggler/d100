@@ -6,7 +6,7 @@
 
 
 
-The focus of the d100 Framework is to build a skeleton of rules for a role playing game that fit in with a generous amount of playing styles and campaign environments. The d100 Framework is similar to a tabletop role playing game (RPG) in that it uses a skill based system as a framework for describing characters and their actions in a fictional setting.   
+The focus of the d100 Framework is to build a skeleton of rules for a table top role playing game that fit in with a generous amount of playing styles and campaign environments. The d100 Framework is similar to a tabletop role playing game (RPG) in that it uses a skill based system as a framework for describing characters and their actions in a fictional setting.   
 
 When attempting to simulate reality through a table top role playing game, any veteran player will realize that text based rules have limitations on their ability to describe the characters and their interaction with the environment.  Furthermore any rule set complex enough to hold players interests will inject a certain amount of min/maxing and game breaking rules or combination of abilities, advantages or powers.  As more "crunch" is introduced to a system, the more likely an imbalance of power will result.  The d100 framework is built with this in mind.
 
